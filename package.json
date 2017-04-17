@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "sawhneyvardan.github.io",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/nvanexan/nvanexan.github.io.git",
+=======
+  "name": "sawhneyvardan.github.io/LD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SawhneyVardan/LD.git",
+>>>>>>> master
   "author": "Vardan Sawhney <vardansawhney@gmail.com>",
   "license": "MIT",
   "scripts": {
